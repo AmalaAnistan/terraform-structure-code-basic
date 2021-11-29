@@ -1,0 +1,5 @@
+instance_key  = "terraform-test"
+instance_ami  = "ami-00782a7608c7fc226"
+instance_type = "t2.micro"
+instance_tag  = "AppServerInstance-test"
+instance_eip  = "eipalloc-04e96df65e5f2c1e1"
